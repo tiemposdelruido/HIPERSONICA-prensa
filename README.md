@@ -1,8 +1,29 @@
-## Welcome to GitHub Pages
+# HIPERSONICA
+## Alexandra Cárdenas
+### noox Records
 
-You can use the [editor on GitHub](https://github.com/tiemposdelruido/HIPERSONICA-prensa/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Música:
+Alexandra Cárdenas, CO / MX
+tiemposdelruido.toplap.org
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Toda la música es live codeada con: TidalCycles & SuperCollider
+
+Grabado en: estudio noox, Hidalgo, Mexico.
+https://nooxrecords.bandcamp.com
+
+Fecha de lanzamiento: 11.11.18
+
+Diseño gráfico y portada:
+Julián Medina, CO
+https://www.behance.net/deLEDs
+
+Mezcla y edición:
+Christian "Red" Sánchez, MX
+https://soundcloud.com/red
+
+Fotos por: 
+Ebba Dangschat, DE
+http://ebbadangschat.de/
 
 ### Markdown
 
