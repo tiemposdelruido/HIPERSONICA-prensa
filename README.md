@@ -61,7 +61,7 @@ algorave.com
 
 HIPERSONICA is a galactic voyage, a discovering of new worlds and possibilities. Thank you for traveling with me. / HIPERSONICA es un viaje galáctico, un descubrimiento de nuevos mundos y nuevas posibilidades. Gracias por viajar conmigo.
 
-This album is dedicated to you / Este álbum te lo dedico a ti
+This album is dedicated to you / Este álbum te lo dedico a ti 
 
 								<3
 
