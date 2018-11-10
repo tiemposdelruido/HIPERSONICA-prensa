@@ -2,6 +2,8 @@
 ## Alexandra Cárdenas
 ### noox Records
 
+![Cover](https://github.com/tiemposdelruido/HIPERSONICA-prensa/blob/master/AlexandraCardenas-2.jpg)
+
 Música:
 Alexandra Cárdenas, CO / MX
 tiemposdelruido.toplap.org
