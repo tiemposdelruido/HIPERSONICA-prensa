@@ -80,7 +80,7 @@ Este álbum es el resultado de varios años de investigacion y experimentación 
 
 Para conocer más sobre el live coding: toplap.org
 
-Agradezco de corazón al neurocientífico peruano David Chaupis Meza por haberme enseñado sobre el efecto hipersónico molecular y quien ha escrito esta reseña del disco: https://zenodo.org/record/1472517?fbclid=IwAR2d5UH1zzJEUK041cm_v-TLBV7cnOY3GpPA7cUd7SvYWQbMyW1ljCljxsg#.W-VcUnpKiAz
+Agradezco de corazón al neurocientífico peruano David Chaupis Meza por haberme enseñado sobre el efecto hipersónico molecular y quien ha escrito esta reseña del disco: https://zenodo.org/record/1472517?fbclid=IwAR2d5UH1zzJEUK041cm_v-TLBV7cnOY3GpPA7cUd7SvYWQbMyW1ljCljxsg#.W-VcUnpKiAz break the loop!
 
 								
 								
