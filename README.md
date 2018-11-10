@@ -9,6 +9,8 @@ Alexandra Cárdenas, CO / MX
 tiemposdelruido.toplap.org
 
 Toda la música es live codeada con: TidalCycles & SuperCollider
+https://tidalcycles.org/
+https://supercollider.github.io/
 
 Grabado en: estudio noox, Hidalgo, Mexico.
 https://nooxrecords.bandcamp.com
