@@ -65,6 +65,6 @@ This album is dedicated to you / Este álbum te lo dedico a ti
 
 								<3
 								
-								[https://github.com/tiemposdelruido/HIPERSONICA-prensa/blob/master/AlexandraCardenas-2.jpg]
-
-
+						![Alexandra's picture](https://github.com/tiemposdelruido/HIPERSONICA-prensa/blob/master/AlexandraCardenas-2.jpg)		
+								
+								
