@@ -2,7 +2,7 @@
 ## Alexandra Cárdenas
 ### noox Records
 
-![Cover](https://github.com/tiemposdelruido/HIPERSONICA-prensa/blob/master/HIPERSONICA_2_alta.png)
+![Cover](https://github.com/tiemposdelruido/HIPERSONICA-prensa/raw/master/HIPERSONICA_2_alta.png)
 
 Música:
 Alexandra Cárdenas, CO / MX
@@ -64,7 +64,7 @@ HIPERSONICA es un viaje galáctico, un descubrimiento de nuevos mundos y nuevas 
 
 Este álbum te lo dedico a ti <3
 
-![Alexandra's picture](https://github.com/tiemposdelruido/HIPERSONICA-prensa/blob/master/AlexandraCardenas-2.jpg)
+![Alexandra's picture](https://github.com/tiemposdelruido/HIPERSONICA-prensa/raw/master/AlexandraCardenas-2.jpg)
 
 HIPERSONICA es una colección de 4 tracks compuestos durante 2018 durante mi gira latinoamericana del mismo nombre. Esta gira, apoyada por Ibermúsicas, me llevó por tres países sudamericanos Colombia, Ecuador y Perú, en donde pude compartir con varias comunidades de personas interesadas en el arte, la tecnología, la ciencia y la educación libre y donde pude enseñar la práctica del live coding y dar variados conciertos. Especial agradecimiento a Platohedro en Medellín, Upayakuwasi en Cayambe y Asimtría en Lima. Uniendo los Suyos!
 
