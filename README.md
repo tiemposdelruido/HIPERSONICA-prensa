@@ -74,7 +74,7 @@ Expandiendo esta gira, realicé una residencia artística en la hacienda Kankaba
 
 La grabación del álbum se realizó en el noox estudio en Huasca, Hidalgo, México. El disco es editado por noox Records, nuevo sello mexicano entre cuyos intereses está el apoyo a la música experimental.
 
-Toda la música está creada con la práctica de live coding, o código en vivo, que consiste en manipular y crear algoritmos por medio de código de programación dando énfasis al uso del software libre y abierto.
+Toda la música está creada con la práctica de live coding, o código en vivo, que consiste en manipular y crear algoritmos por medio de código de programación para la creación de un performance musical, haciendo énfasis en el uso del software libre y abierto.
 
 Aunque los tracks del álbum son obras compuestas, siempre que se interpretan toman una nueva forma, gracias a la improvisacion y a los procesos estocásticos en la programación. Las grabaciones se realizaron en una sola toma. 
 
