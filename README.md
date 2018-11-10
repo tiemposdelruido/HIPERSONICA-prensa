@@ -2,7 +2,7 @@
 ## Alexandra Cárdenas
 ### noox Records
 
-![Cover](https://github.com/tiemposdelruido/HIPERSONICA-prensa/blob/master/AlexandraCardenas-2.jpg)
+![Cover](https://github.com/tiemposdelruido/HIPERSONICA-prensa/blob/master/HIPERSONICA_2_alta.png)
 
 Música:
 Alexandra Cárdenas, CO / MX
