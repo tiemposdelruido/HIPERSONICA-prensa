@@ -49,7 +49,7 @@ Julián Medina, CO
 Luis Clériga, MX
 Malitzin Cortés, MX
 
-Thanks to my beloved global live coding community, which is creating a new way to make music that is free, libre, and transparent! / Gracias a mi amada comunidad global de live coding, con quienes creamos día a día una nueva forma de hacer música libre y transparente! 
+Gracias a mi amada comunidad global de live coding, con quienes creamos día a día una nueva forma de hacer música libre y transparente! 
 
 toplap.org
 algorave.com
@@ -67,7 +67,7 @@ This album is dedicated to you / Este álbum te lo dedico a ti <3
 
 ![Alexandra's picture](https://github.com/tiemposdelruido/HIPERSONICA-prensa/blob/master/AlexandraCardenas-2.jpg)
 
-HIPERSONICA es una colección de 4 tracks compuestos durante 2018 durante mi gira latinoamericana del mismo nombre. Esta gira, apoyada por Ibermúsicas, me llevó por tres países sudamericanos Colombia, Ecuador y Perú, en donde pude compartir con varias comunidades de personas interesadas en el arte, la tecnología, la ciencia y la educación libre y donde pude enseñar la práctica del live coding y dar variados conciertos. Especial agradecimiento a Platohedro en Medellín, Upayakuwasi en Cayambe y Asimtría en Lima. 
+HIPERSONICA es una colección de 4 tracks compuestos durante 2018 durante mi gira latinoamericana del mismo nombre. Esta gira, apoyada por Ibermúsicas, me llevó por tres países sudamericanos Colombia, Ecuador y Perú, en donde pude compartir con varias comunidades de personas interesadas en el arte, la tecnología, la ciencia y la educación libre y donde pude enseñar la práctica del live coding y dar variados conciertos. Especial agradecimiento a Platohedro en Medellín, Upayakuwasi en Cayambe y Asimtría en Lima. Uniendo los Suyos!
 
 Expandiendo esta gira, realicé una residencia artística en la hacienda Kankabal en Yucatán, México, en donde terminé de dar forma los tres primeros tracks y compuse el último, dedicado a la naturaleza de la península y sus leyendas. 
 
@@ -80,6 +80,8 @@ Aunque los tracks del álbum son obras compuestas, siempre que se interpretan to
 Este álbum es el resultado de varios años de investigacion y experimentación dialogando entre mundos aparentemente diferentes: la música electrónica de baile, el techno, la electroacústica, el noise y la experimentación libre. 
 
 Para conocer más sobre el live coding: toplap.org
+
+Agradezco de corazón al neurocientífico peruano David Chaupis Meza por haberme enseñado sobre el efecto hipersónico molecular y quien ha escrito esta reseña del disco: https://zenodo.org/record/1472517?fbclid=IwAR2d5UH1zzJEUK041cm_v-TLBV7cnOY3GpPA7cUd7SvYWQbMyW1ljCljxsg#.W-VcUnpKiAz
 
 								
 								
