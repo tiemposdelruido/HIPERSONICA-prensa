@@ -29,28 +29,24 @@ http://ebbadangschat.de/
 
 ### Agradecimientos
 
-noox
-
-noox records
-
-estudio noox
-
-Sergio Vallejos, MX
-
-Alex McLean, UK
-James McCartney, US
-Julian Rohrhuber, DE
-Mike Hodnick, US
-Renick Bell, US
-Steve Layton, US
-Joshua Parmenter, US
-David Crowley y Platohedro, CO
-Pedro Soler, Daniela Moreno Wray y Upayakuwasi, EC
-David Chaupis Meza y El Paradero Cultural, PE
-Marco Valdivia y Asimtría, PE
-Olivia Jack, US
-Julián Medina, CO
-Luis Clériga, MX
+noox  
+noox records  
+estudio noox  
+Sergio Vallejos, MX  
+Alex McLean, UK  
+James McCartney, US  
+Julian Rohrhuber, DE  
+Mike Hodnick, US  
+Renick Bell, US  
+Steve Layton, US  
+Joshua Parmenter, US  
+David Crowley y Platohedro, CO  
+Pedro Soler, Daniela Moreno Wray y Upayakuwasi, EC  
+David Chaupis Meza y El Paradero Cultural, PE  
+Marco Valdivia y Asimtría, PE  
+Olivia Jack, US  
+Julián Medina, CO  
+Luis Clériga, MX  
 Malitzin Cortés, MX
 
 Gracias a mi amada comunidad global de live coding, con quienes creamos día a día una nueva forma de hacer música libre y transparente! 
