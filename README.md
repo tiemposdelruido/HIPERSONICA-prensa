@@ -67,7 +67,7 @@ This album is dedicated to you / Este álbum te lo dedico a ti <3
 
 ![Alexandra's picture](https://github.com/tiemposdelruido/HIPERSONICA-prensa/blob/master/AlexandraCardenas-2.jpg)
 
-HIPERSONICA es una colección de 4 tracks compuestos durante 2018 durante mi gira latinoamericana del mismo nombre. Esta gira, apoyada por Ibermúsicas, me llevó por tres países sudamericanos Colombia, Ecuador y Perú, en donde pude compartir con varias comunidades de personas interesadas en el arte, la tecnología, la ciencia y la educación libre y donde pude enseñar la práctica del live coding y dar variados conciertos.
+HIPERSONICA es una colección de 4 tracks compuestos durante 2018 durante mi gira latinoamericana del mismo nombre. Esta gira, apoyada por Ibermúsicas, me llevó por tres países sudamericanos Colombia, Ecuador y Perú, en donde pude compartir con varias comunidades de personas interesadas en el arte, la tecnología, la ciencia y la educación libre y donde pude enseñar la práctica del live coding y dar variados conciertos. Especial agradecimiento a Platohedro en Medellín, Upayakuwasi en Cayambe y Asimtría en Lima. 
 
 Expandiendo esta gira, realicé una residencia artística en la hacienda Kankabal en Yucatán, México, en donde terminé de dar forma los tres primeros tracks y compuse el último, dedicado a la naturaleza de la península y sus leyendas. 
 
@@ -77,8 +77,13 @@ Toda la música está creada con la práctica de live coding, o código en vivo,
 
 Aunque los tracks del álbum son obras compuestas, siempre que se interpretan toman una nueva forma. Las grabaciones se realizaron en una sola toma. 
 
+Este álbum es el resultado de varios años de investigacion y experimentación dialogando entre mundos aparentemente diferentes: la música electrónica de baile, el techno, la electroacústica, el noise y la experimentación libre. 
+
+Para conocer más sobre el live coding: toplap.org
+
 								
 								
+							
 								
 								
 								
